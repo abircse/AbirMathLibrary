@@ -5,7 +5,7 @@ This is simple library for basic Arithmatic operations, sum, subtraction, multip
 
 ### Step1 : Add my dependency to Android studio App Level build.gradle files in dependency block
 
-    **implementation 'com.github.abircse:MyMathOperationsLibrary:1.0'**
+    implementation 'com.github.abircse:MyMathOperationsLibrary:1.0'
 
 # HOW TO WRITE CODE
 ### Step 3 : In you class or Activity file just call my operations method, & only put int value using comma's for specific operations.
