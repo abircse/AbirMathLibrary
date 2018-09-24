@@ -10,15 +10,15 @@ This is simple library for basic Arithmatic operations, sum, subtraction, multip
     
 ### Step 2 : Add this line in Project Level build.gradle files like this
 
-allprojects {
-    repositories {
-        google()
-        jcenter()
+    allprojects {
+        repositories {
+            google()
+            jcenter()
 
-        //-------Use This Line----------------//
-        maven { url 'https://jitpack.io' }
+            //-------Use This Line----------------//
+            maven { url 'https://jitpack.io' }
+        }
     }
-}
 
 
 ## OKEY! DONE. NOW LETS KNOW HOW TO WRITE CODE
